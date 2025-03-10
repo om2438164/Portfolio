@@ -3,6 +3,6 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Om Patil',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"Building scalable and dynamic web apps with the MERN stack. Passionate about coding and full-stack development. Currently improving my skills through real-world projects and training at Cravita Technologies. ",
     resumePdf: resume
 }

@@ -9,14 +9,14 @@ export const educationData = [
     {
         id: 2,
         institution: 'Janata English Junior college Dindori',
-        course: 'Higher Secondary Education',
+        course: 'Higher Education',
         startYear: '2019',
         endYear: '2021'
     },
     {
         id: 3,
         institution: 'K. K. Wagh Vidyabhavan B.nagar Nashik',
-        course: 'Secondary School Certificate',
+        course: 'Secondary Education',
         startYear: '2014',
         endYear: '2019'
     },

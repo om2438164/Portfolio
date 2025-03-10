@@ -1,43 +1,33 @@
+import sql from "./sql.png";
+import tiaa from "./tiaa.png";
+import HackerRank from "./HackerRank.png";
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "I have consistently excelled in academics and technology, maintaining a 9.40 CGPA in engineering while honing my problem-solving skills. I achieved a 5-star rating in C++ on HackerRank and solved 200+ DSA problems on platforms like LeetCode and Coding Ninjas. As a finalist in the TIAA Hackathon 2024, I contributed to developing an AI-driven stock allocation engine. Additionally, I built Resumate, a resume builder used by 100+ users, and earned a MySQL Certification from Infosys Springboard. Beyond coding, I secured first place in a chess competition and achieved a 90 WPM typing speed.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : '5 Star Coder',
+            details : 'Achieved a 5-star rating in C++ programming on HackerRank, demonstrating strong problem-solving skills.',
+            date : 'Mar, 2024',
+            field : 'HackerRank',
+            image : HackerRank
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'TIAA Hackathon Finalist',
+            details : 'Developed an AI-driven stock allocation engine to recommend optimal stocks based on user Financial Data.',
+            date : '2024',
+            field : 'Hackathon',
+            image : tiaa
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'MySQL Certification',
+            details : 'Earned a MySQL Certification from Infosys Springboard, showcasing expertise in database management, SQL queries, data manipulation.',
+            date : 'Jun 13, 2023',
+            field : 'Database',
+            image : sql
         }
 
     ]
 }
-
-
-// Do not remove any fields.
-// Leave it blank instead as shown below.
-
-/*
-
-export const achievementData = {
-    bio : "",
-    achievements : []
-}
-
-*/
