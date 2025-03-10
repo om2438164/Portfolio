@@ -9,7 +9,7 @@ export const experienceData = [
     {
         id: 2,
         company: 'Webstack Academy, Bangalore',
-        jobtitle: 'Full Stack Web Developer Intern',
+        jobtitle: 'MERN Stack Intern',
         startYear: 'Jun',
         endYear: '2024'
     },
