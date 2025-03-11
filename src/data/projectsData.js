@@ -8,7 +8,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Stock Allocation Engine',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        projectDesc: ' Developed an AI-driven stock allocation engine to recommend optimal stocks based on user financial data.',
         tags: ['React', 'Tailwind CSS', 'Python'],
         code: 'https://github.com/om2438164/AI-Stock-allocation-Engine.git',
         demo: 'https://github.com/om2438164/AI-Stock-allocation-Engine.git',
