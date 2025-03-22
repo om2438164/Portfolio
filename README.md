@@ -52,7 +52,11 @@ Welcome to my personal portfolio project! This project showcases my skills, proj
 
 ## Screenshots
 ![Homepage](path/to/homepage_screenshot.png)
-![Projects Section](path/to/projects_screenshot.png)
+![Education section](path/to/homepage_screenshot.png)
+![Experience section](path/to/homepage_screenshot.png)
+![Projects section](path/to/projects_screenshot.png)
+![Achievements section](path/to/homepage_screenshot.png)
+
 
 ## Deployment
 - The project can be deployed on Vercel.
