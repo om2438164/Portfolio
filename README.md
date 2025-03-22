@@ -6,7 +6,6 @@ Welcome to my personal portfolio project! This project showcases my skills, proj
 - [How to Run the Project](#how-to-run-the-project)
 - [Technologies Used](#technologies-used)
 - [Key Features](#key-features)
-- [Screenshots](#screenshots)
 - [Deployment](#Deployment)
 
 ---
@@ -49,14 +48,6 @@ Welcome to my personal portfolio project! This project showcases my skills, proj
 - **Contact Form:** A simple and functional contact form for visitors to reach out to me.
 - **Animations:** Smooth animations and transitions to enhance the visual appeal.
 - **Skills and Experience:** Display my skills and experience with details.
-
-## Screenshots
-![Homepage](https://github.com/om2438164/Portfolio/blob/17e7a906f454b04a25b60d648a95d9684a1f2937/Home.png)
-![Education section](https://github.com/om2438164/Portfolio/blob/17e7a906f454b04a25b60d648a95d9684a1f2937/Education.png)
-![Experience section](https://github.com/om2438164/Portfolio/blob/17e7a906f454b04a25b60d648a95d9684a1f2937/Experience.png)
-![Projects section](https://github.com/om2438164/Portfolio/blob/17e7a906f454b04a25b60d648a95d9684a1f2937/Projects.png)
-![Achievements section](https://github.com/om2438164/Portfolio/blob/17e7a906f454b04a25b60d648a95d9684a1f2937/Achievements.png)
-
 
 ## Deployment
 - The project can be deployed on Vercel.
