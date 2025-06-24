@@ -6,6 +6,7 @@
     'React',
     'MySQL',
     'C++',
+    'Java',
     'Git',
     'MongoDB',
 ]

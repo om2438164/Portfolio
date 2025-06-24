@@ -353,3 +353,25 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+export const lavenderThemeLight = {
+    type: 'light',
+    primary: '#cdb4db',
+    primary400: '#d8c2e3',
+    primary600: '#b89ac7',
+    primary80: '#cdb4dbcc',
+    primary50: '#cdb4db80',
+    primary30: '#cdb4db4d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    aboutimg1: purpleThemeboy,
+    aboutimg2: purpleThemegirl,
+    eduimg: eduPurple,
+    expimg: expPurple,
+    contactsimg: contactsPurple // Update with lavender-themed images
+}
+
